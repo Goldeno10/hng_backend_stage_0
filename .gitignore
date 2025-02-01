@@ -84,7 +84,6 @@ public
 .tern-port
 
 # VS Code directories
-.vscode/
 .history/
 
 # MacOS files
@@ -92,3 +91,7 @@ public
 
 # Windows files
 Thumbs.db
+.vercel
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
